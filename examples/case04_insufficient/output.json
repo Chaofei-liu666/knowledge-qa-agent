@@ -1,0 +1,13 @@
+{
+  "question": "期权行权价是多少？",
+  "status": "insufficient_info",
+  "answer": "",
+  "citations": [],
+  "gaps": [
+    "期权 行权价"
+  ],
+  "steps": 4,
+  "tool_calls": 3,
+  "note": "已检索：期权行权价, 期权 行权价",
+  "status_zh": "资料不足"
+}

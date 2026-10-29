@@ -1,0 +1,5 @@
+jieba>=0.42.1
+pytest>=8.0
+
+# 可选：十万级规模验证才需要
+# pip install faiss-cpu fastembed

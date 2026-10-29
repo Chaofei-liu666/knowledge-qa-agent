@@ -1,0 +1,6 @@
+{
+  "question": "采购 30 万需要谁审批？",
+  "history": [],
+  "fault": "search:1",
+  "provider": "llm"
+}
